@@ -1,5 +1,5 @@
 function change01(){
-    document.getElementById("big").src="clouds.jpg";
+    document.getElementById("big").src="images/clouds.jpg";
     document.getElementById("content").innerHTML = "We had about all the types of weather you could think of on this trip.";
 }
 
